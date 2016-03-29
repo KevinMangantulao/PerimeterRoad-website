@@ -1,0 +1,59 @@
+@charset "UTF-8";
+.logo {
+	display: block;
+}
+.img-responsive.center-block {
+	border: thin solid #6C9598;
+}
+hr {
+	border: thin solid #6C9698;
+}
+#footer {
+	color: #FFFFFF;
+	text-align: center;
+}
+body {
+	background-image:url(../images/BG_web.png);
+	background-repeat:no-repeat;
+	background-size: cover;
+}
+.container #navbar {
+}
+.nav.navbar-nav ul li a {
+	color: #FFFFFF;
+	display: inline;
+	list-style-type: none;
+}
+.nav.navbar-nav li a:hover  {
+	text-decoration: underline;
+	color: #6C9598;
+}
+.nav ul{
+	border: 1px solid #ccc;
+	border-width: 1px 0;
+	list-style: none;
+	margin: 0;
+	padding: 0;
+	text-align: center;
+	display: block;
+}
+.nav li{
+	display: block;
+	list-style-type: none;
+}
+.nav a{
+    display:inline-block;
+    padding:10px;
+}.navbar.navbar-inverse.navbar-static-top .container #navbar {
+	background-color: transparent;
+}
+.nav.navbar-nav {
+	float: center;
+	text-justify: centter;
+	border-color: transparent;
+}
+.container .navbar-header {
+}
+.Copyright {
+	color: #FFFFFF;
+}
